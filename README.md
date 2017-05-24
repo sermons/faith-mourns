@@ -1,5 +1,5 @@
-# faith-mourns
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# Faith that Mourns Sin
+## James 4:4-10
 
 [![Build status](https://travis-ci.org/sermons/faith-mourns.svg)](https://travis-ci.org/sermons/faith-mourns)
 [![Node deps](https://david-dm.org/sermons/faith-mourns.svg)](https://david-dm.org/sermons/faith-mourns)
