@@ -10,44 +10,44 @@
 
 ---
 <span class="ref">4</span>
-You adulterous people, don’t you know that <br/>
-friendship with the world <br/>
+You **adulterous** people, don’t you know that <br/>
+**friendship** with the **world** <br/>
 means enmity against God?
 
 Therefore, anyone who chooses to be <br/>
-a friend of the world becomes an enemy of God.
+a friend of the world becomes an **enemy of God**.
 
 <span class="ref">5</span>
 Or do you think Scripture says without reason <br/>
-that he jealously longs for the spirit <br/>
+that he **jealously longs** for the **spirit** <br/>
 he has caused to dwell in us?
 
 ---
 <span class="ref">6</span>
-But he gives us more grace. <br/>
+But he gives us more **grace**. <br/>
 That is why Scripture says:
 
-“God opposes the proud <br/>
-but shows favor to the humble.”
+“God **opposes** the **proud** <br/>
+but shows **favor** to the **humble**.”
 
 <span class="ref">7</span>
-Submit yourselves, then, to God. <br/>
-Resist the devil, and he will flee from you. <br/>
+**Submit** yourselves, then, to God. <br/>
+**Resist** the devil, and he will **flee** from you. <br/>
 <span class="ref">8</span>
-Come near to God and he will come near to you.
+Come **near** to God and he will come near to you.
 
 ---
-Wash your hands, you sinners, and <br/>
-purify your hearts, you double-minded.
+**Wash** your hands, you **sinners**, and <br/>
+**purify** your hearts, you **double-minded**.
 
 <span class="ref">9</span>
-Grieve, mourn and wail. <br/>
-Change your laughter to mourning <br/>
-and your joy to gloom.
+**Grieve**, mourn and wail. <br/>
+Change your laughter to **mourning** <br/>
+and your joy to **gloom**.
 
 <span class="ref">10</span>
-Humble yourselves before the Lord, <br/>
-and he will lift you up.
+**Humble** yourselves before the Lord, <br/>
+and he will **lift** you up.
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
