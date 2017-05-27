@@ -22,6 +22,10 @@ Or do you think Scripture says without reason <br/>
 that he **jealously longs** for the **spirit** <br/>
 he has caused to dwell in us?
 
+<div class="ref">
+James 4:4-5 (NIV) (p.1/3)
+</div>
+
 ---
 <span class="ref">6</span>
 But he gives us more **grace**. <br/>
@@ -36,6 +40,10 @@ but shows **favor** to the **humble**.”
 <span class="ref">8</span>
 Come **near** to God and he will come near to you.
 
+<div class="ref">
+James 4:6-8 (NIV) (p.2/3)
+</div>
+
 ---
 **Wash** your hands, you **sinners**, and <br/>
 **purify** your hearts, you **double-minded**.
@@ -48,6 +56,10 @@ and your joy to **gloom**.
 <span class="ref">10</span>
 **Humble** yourselves before the Lord, <br/>
 and he will **lift** you up.
+
+<div class="ref">
+James 4:8-10 (NIV) (p.3/3)
+</div>
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
