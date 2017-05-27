@@ -1,3 +1,4 @@
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 # Faith that Mourns Sin
 ## James 4:4-10
 
@@ -66,3 +67,63 @@ James 4:8-10 (NIV) (p.3/3)
 ## Outline
 1. Point **One** <span class="ref">(v1)</span>
 2. Point **Two** <span class="ref">(v2)</span>
+
+>>>
++ 4 friendship (φιλία): kiss, affection, kinship
+  + chooses (βουληθῇ): intend, desire
++ becomes (καθίσταται): stands (position, stance)
++ 5 jealous (φθόνον): envy
+  + bitterness toward another's good
+  + to action: tear other down
+  + cf zeal
++ longs (ἐπιποθεῖ): yearn, strive
++ 6 proud (ὑπερηφάνοις): puffed up beyond
+  + oppose (ἀντιτάσσεται): arrange position against
+  + humble (ταπεινοῖς): low, reliant on God
++ 7 submit (ὑποτάγητε): position below
+  + resist (ἀντίστητε): stand against
++ 8 wash (καθαρίσατε): make clean
+  + purify (ἁγνίσατε): make holy
+  + double-mind (δίψυχοι): two souls, schiz
++ 9 grieve (ταλαιπωρήσατε): intense affliction
+  + bear/carry/endure distress/callouses
++ mourn (πενθήσατε): grief, esp of death
+  + death of relationship, of hope
+  + cannot be hid
+  + also in v9b
++ wail (κλαύσατε): audible wailing of grief
++ gloom (κατήφειαν):
+
+---
+For the **flesh** desires what is contrary to the **Spirit**, <br/>
+and the Spirit what is **contrary** to the flesh.
+
+They are in **conflict** with each other,  <br/>
+so that you are not to do whatever you **want**.
+
+<div class="ref">
+Galatians 5:17 (NIV)
+</div>
+
+>>>
++ Scripture says: not in OT, no specific ref
+  + themes present in Paul
+
+---
+Look! God’s dwelling place is now **among** the people, <br/>
+and he will **dwell** with them.
+
+They will be **his people**,  <br/>
+and God himself will be with them and be **their God**.
+
+<span class="ref">3</span>
+He will wipe every **tear** from their eyes. <br/>
+There will be no more **death**  <br/>
+or **mourning** or crying or pain,
+
+for the old **order** of things has passed away.
+
+<div class="ref">
+Revelation 21:3-4 (NIV)
+</div>
+
