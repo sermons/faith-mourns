@@ -76,9 +76,9 @@ James 4:8-10 (NIV) (p.3/3)
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
 ## Faith that Mourns Sin <span class="ref">(James 4b)</span>
-1. Adulterers <span class="ref">(v4-6)</span>
-2. Draw Near <span class="ref">(v7-8)</span>
-2. Good Grief <span class="ref">(v9-10)</span>
+1. **Adultery** <span class="ref">(v4-6)</span>
+2. A New **Direction** <span class="ref">(v7-8)</span>
+2. Good **Grief** <span class="ref">(v9-10)</span>
 
 ---
 You **adulterous** people
@@ -163,6 +163,13 @@ Galatians 5:17 (NIV)
   + themes present in Paul
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+## Faith that Mourns Sin <span class="ref">(James 4b)</span>
+1. Adultery <span class="ref">(v4-6)</span>
+2. **A New Direction** <span class="ref">(v7-8)</span>
+2. Good Grief <span class="ref">(v9-10)</span>
+
+---
 That is why Scripture says:
 
 “God **opposes** the **proud** <br/>
@@ -206,6 +213,13 @@ James 4:8 (NIV)
 </div>
 
 ---
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+## Faith that Mourns Sin <span class="ref">(James 4b)</span>
+1. Adultery <span class="ref">(v4-6)</span>
+2. A New Direction <span class="ref">(v7-8)</span>
+2. **Good Grief** <span class="ref">(v9-10)</span>
+
+---
 **Grieve**, mourn and wail. <br/>
 Change your laughter to **mourning** <br/>
 and your joy to **gloom**.
@@ -223,6 +237,15 @@ James 4:8-9 (NIV)
   + also in v9b
 + wail (κλαύσατε): audible wailing of grief
 + gloom (κατήφειαν): eyes downcast
+
+---
+Godly sorrow brings **repentance** <br/>
+that leads to **salvation** and leaves **no regret**, <br/>
+but worldly sorrow brings **death**.
+
+<div class="ref">
+2 Corinthians 7:10 (NIV)
+</div>
 
 ---
 Look! God’s dwelling place is now **among** the people, <br/>
