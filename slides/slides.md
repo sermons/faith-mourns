@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
 # Faith that Mourns Sin
 ## James 4:4-10
 
@@ -74,7 +74,7 @@ James 4:8-10 (NIV) (p.3/3)
 </div>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" id="outline" -->
 ## Faith that Mourns Sin <span class="ref">(James 4b)</span>
 1. **Adultery** <span class="ref">(v4-6)</span>
 2. A New **Direction** <span class="ref">(v7-8)</span>
@@ -169,7 +169,7 @@ Galatians 5:17 (NIV)
   + themes present in Paul
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
 ## Faith that Mourns Sin <span class="ref">(James 4b)</span>
 1. Adultery <span class="ref">(v4-6)</span>
 2. **A New Direction** <span class="ref">(v7-8)</span>
@@ -222,7 +222,7 @@ James 4:8 (NIV)
 </div>
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
 ## Faith that Mourns Sin <span class="ref">(James 4b)</span>
 1. Adultery <span class="ref">(v4-6)</span>
 2. A New Direction <span class="ref">(v7-8)</span>
@@ -283,6 +283,7 @@ Revelation 21:4 (NIV) (p.2/2)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
 <span class="ref">10</span>
 **Humble** yourselves before the Lord, <br/>
 and he will **lift** you up.
@@ -291,3 +292,5 @@ and he will **lift** you up.
 James 4:10 (NIV)
 </div>
 
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" class="empty" -->
