@@ -203,7 +203,11 @@ and he will **dwell** with them.
 They will be **his people**,  <br/>
 and God himself will be with them and be **their God**.
 
-<span class="ref">3</span>
+<div class="ref">
+Revelation 21:3 (NIV) (p.1/2)
+</div>
+
+---
 He will wipe every **tear** from their eyes. <br/>
 There will be no more **death**  <br/>
 or **mourning** or crying or pain,
@@ -211,7 +215,7 @@ or **mourning** or crying or pain,
 for the old **order** of things has passed away.
 
 <div class="ref">
-Revelation 21:3-4 (NIV)
+Revelation 21:4 (NIV) (p.2/2)
 </div>
 
 ---
