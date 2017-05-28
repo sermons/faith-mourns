@@ -220,6 +220,15 @@ James 4:8-9 (NIV)
 + gloom (κατήφειαν): eyes downcast
 
 ---
+Godly sorrow brings **repentance** <br/>
+that leads to **salvation** and leaves **no regret**, <br/>
+but worldly sorrow brings **death**.
+
+<div class="ref">
+2 Corinthians 7:10 (NIV)
+</div>
+
+---
 Look! God’s dwelling place is now **among** the people, <br/>
 and he will **dwell** with them.
 
