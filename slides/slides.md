@@ -68,31 +68,42 @@ James 4:8-10 (NIV) (p.3/3)
 1. Point **One** <span class="ref">(v1)</span>
 2. Point **Two** <span class="ref">(v2)</span>
 
+---
+You **adulterous** people, don’t you know that <br/>
+**friendship** with the **world** <br/>
+means enmity against God?
+
+Therefore, anyone who chooses to be <br/>
+a friend of the world becomes an **enemy of God**.
+
+<div class="ref">
+James 4:4 (NIV)
+</div>
+
 >>>
 + 4 friendship (φιλία): kiss, affection, kinship
   + chooses (βουληθῇ): intend, desire
 + becomes (καθίσταται): stands (position, stance)
+
+---
+Or do you think Scripture says without reason
+
+that he **jealously longs** for the **spirit** <br/>
+he has caused to dwell in us?
+
+<span class="ref">6</span>
+But he gives us more **grace**. <br/>
+
+<div class="ref">
+James 4:5-6 (NIV)
+</div>
+
+>>>
 + 5 jealous (φθόνον): envy
   + bitterness toward another's good
   + to action: tear other down
   + cf zeal
 + longs (ἐπιποθεῖ): yearn, strive
-+ 6 proud (ὑπερηφάνοις): puffed up beyond
-  + oppose (ἀντιτάσσεται): arrange position against
-  + humble (ταπεινοῖς): low, reliant on God
-+ 7 submit (ὑποτάγητε): position below
-  + resist (ἀντίστητε): stand against
-+ 8 wash (καθαρίσατε): make clean
-  + purify (ἁγνίσατε): make holy
-  + double-mind (δίψυχοι): two souls, schiz
-+ 9 grieve (ταλαιπωρήσατε): intense affliction
-  + bear/carry/endure distress/callouses
-+ mourn (πενθήσατε): grief, esp of death
-  + death of relationship, of hope
-  + cannot be hid
-  + also in v9b
-+ wail (κλαύσατε): audible wailing of grief
-+ gloom (κατήφειαν):
 
 ---
 For the **flesh** desires what is contrary to the **Spirit**, <br/>
@@ -108,6 +119,59 @@ Galatians 5:17 (NIV)
 >>>
 + Scripture says: not in OT, no specific ref
   + themes present in Paul
+
+---
+That is why Scripture says:
+
+“God **opposes** the **proud** <br/>
+but shows **favor** to the **humble**.”
+
+<span class="ref">7</span>
+**Submit** yourselves, then, to God. <br/>
+**Resist** the devil, and he will **flee** from you. <br/>
+<span class="ref">8</span>
+Come **near** to God and he will come near to you.
+
+<div class="ref">
+James 4:6-8 (NIV)
+</div>
+
+>>>
++ 6 proud (ὑπερηφάνοις): puffed up beyond
+  + oppose (ἀντιτάσσεται): arrange position against
+  + humble (ταπεινοῖς): low, reliant on God
++ 7 submit (ὑποτάγητε): position below
+  + resist (ἀντίστητε): stand against
+
+---
+**Wash** your hands, you **sinners**, and <br/>
+**purify** your hearts, you **double-minded**.
+
+<span class="ref">9</span>
+**Grieve**, mourn and wail. <br/>
+Change your laughter to **mourning** <br/>
+and your joy to **gloom**.
+
+<span class="ref">10</span>
+**Humble** yourselves before the Lord, <br/>
+and he will **lift** you up.
+
+<div class="ref">
+James 4:8-10 (NIV)
+</div>
+
+>>>
++ 8 wash (καθαρίσατε): make clean
+  + purify (ἁγνίσατε): make holy
+  + double-mind (δίψυχοι): two souls, schiz
++ 9 grieve (ταλαιπωρήσατε): intense affliction
+  + bear/carry/endure distress/callouses
++ mourn (πενθήσατε): grief, esp of death
+  + death of relationship, of hope
+  + cannot be hid
+  + also in v9b
++ wail (κλαύσατε): audible wailing of grief
++ gloom (κατήφειαν): eyes downcast
 
 ---
 Look! God’s dwelling place is now **among** the people, <br/>
