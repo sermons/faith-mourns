@@ -329,7 +329,7 @@ Revelation 21:4 (NIV) (p.2/2)
 
 ---
 <!-- .slide: data-background="white" -->
-# Has my **sorrow** led to **repentance** or **regret**?
+# Has my **sorrow** over sin <br/> led to **repentance** <br/> or to **regret**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
