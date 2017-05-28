@@ -75,9 +75,10 @@ James 4:8-10 (NIV) (p.3/3)
 
 ---
 <!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
-## Outline
-1. Point **One** <span class="ref">(v1)</span>
-2. Point **Two** <span class="ref">(v2)</span>
+## Faith that Mourns Sin <span class="ref">(James 4b)</span>
+1. Adulterers <span class="ref">(v4-6)</span>
+2. Draw Near <span class="ref">(v7-8)</span>
+2. Good Grief <span class="ref">(v9-10)</span>
 
 ---
 You **adulterous** people
