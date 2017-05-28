@@ -4,10 +4,15 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# Does God want me to be **happy**?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
+
+>>>
++ Yes, but God is not our **servant**
+  + genie in magic lamp
++ Our goal should be not **happiness** but **holiness**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
@@ -118,6 +123,19 @@ James 4:3 (NIV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+Then I passed by and saw you **kicking about** in your **blood**, <br/>
+and as you lay there in your blood I said to you, “**Live!**”
+
+<div class="ref">
+Ezekiel 16:6 (NIV)
+</div>
+
+>>>
++ all of chapter 16
++ also see Hosea 2
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
 anyone who chooses to be a **friend** of the **world** <br/>
 becomes an **enemy** of **God**.
@@ -170,7 +188,7 @@ Galatians 5:17 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# How has my heart been **adulterous**? 
+# How has my heart been **adulterous**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
