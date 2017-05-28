@@ -76,8 +76,8 @@ James 4:4 (NIV)
 </div>
 
 ---
-anyone who chooses to be a **friend of the world** <br/>
-becomes an **enemy of God**.
+anyone who chooses to be a **friend** of the **world** <br/>
+becomes an **enemy** of **God**.
 
 <div class="ref">
 James 4:4 (NIV)
