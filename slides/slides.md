@@ -232,6 +232,16 @@ James 4:7-8 (NIV)
   + resist (ἀντίστητε): stand against
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
+My **sacrifice**, O God, is a **broken spirit**; <br/>
+a broken and **contrite heart** <br/>
+you, God, will not despise.
+
+<div class="ref">
+Psalm 51:17 (NIV)
+</div>
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-oXo6IvDnkqc-dirty_hands.jpg" -->
 **Wash** your hands, you **sinners**, and <br/>
 **purify** your hearts, you **double-minded**.
