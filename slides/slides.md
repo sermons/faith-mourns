@@ -81,6 +81,7 @@ James 4:8-10 (NIV) (p.3/3)
 2. Good **Grief** <span class="ref">(v9-10)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
 You **adulterous** people
 
 <div class="ref">
@@ -92,6 +93,7 @@ James 4:4 (NIV)
 + look at context:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
 What causes **fights** and **quarrels** among you?
 
 Don’t they come from your **desires** <br/>
@@ -107,6 +109,7 @@ James 4:1 (NIV)
 + desires (ἡδονῶν): selfish pleasures, passions
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/negativespace-money.jpg" -->
 You ask with **wrong motives**, <br/>
 that you may spend what you get on your **pleasures**.
 
@@ -115,6 +118,7 @@ James 4:3 (NIV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
 anyone who chooses to be a **friend** of the **world** <br/>
 becomes an **enemy** of **God**.
 
@@ -128,6 +132,7 @@ James 4:4 (NIV)
 + becomes (καθίσταται): stands (position, stance)
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 Or do you think Scripture says without reason
 
 that he **jealously longs** for the **spirit** <br/>
@@ -148,6 +153,7 @@ James 4:5-6 (NIV)
 + longs (ἐπιποθεῖ): yearn, strive
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 For the **flesh** desires what is contrary to the **Spirit**, <br/>
 and the Spirit what is **contrary** to the flesh.
 
@@ -163,13 +169,14 @@ Galatians 5:17 (NIV)
   + themes present in Paul
 
 ---
-<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" id="outline" -->
+<!-- .slide: data-background-image="static/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
 ## Faith that Mourns Sin <span class="ref">(James 4b)</span>
 1. Adultery <span class="ref">(v4-6)</span>
 2. **A New Direction** <span class="ref">(v7-8)</span>
 2. Good Grief <span class="ref">(v9-10)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
 That is why Scripture says:
 
 “God **opposes** the **proud** <br/>
@@ -185,6 +192,7 @@ James 4:6 (NIV)
   + humble (ταπεινοῖς): low, reliant on God
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 **Submit** yourselves, then, to God.
 
 **Resist** the devil, and he will **flee** from you. <br/>
@@ -200,6 +208,7 @@ James 4:7-8 (NIV)
   + resist (ἀντίστητε): stand against
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-oXo6IvDnkqc-dirty_hands.jpg" -->
 **Wash** your hands, you **sinners**, and <br/>
 **purify** your hearts, you **double-minded**.
 
@@ -220,6 +229,7 @@ James 4:8 (NIV)
 2. **Good Grief** <span class="ref">(v9-10)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
 **Grieve**, mourn and wail. <br/>
 Change your laughter to **mourning** <br/>
 and your joy to **gloom**.
@@ -239,6 +249,7 @@ James 4:8-9 (NIV)
 + gloom (κατήφειαν): eyes downcast
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 Godly sorrow brings **repentance** <br/>
 that leads to **salvation** and leaves **no regret**, <br/>
 but worldly sorrow brings **death**.
@@ -248,6 +259,7 @@ but worldly sorrow brings **death**.
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 Look! God’s dwelling place is now **among** the people, <br/>
 and he will **dwell** with them.
 
@@ -259,6 +271,7 @@ Revelation 21:3 (NIV) (p.1/2)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
 He will wipe every **tear** from their eyes. <br/>
 There will be no more **death**  <br/>
 or **mourning** or crying or pain,
