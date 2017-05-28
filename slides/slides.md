@@ -87,8 +87,27 @@ You **adulterous** people
 James 4:4 (NIV)
 </div>
 
+>>>
++ **why** adultery?
++ look at context:
+
 ---
-You ask with **wrong motives**,  <br/>
+What causes **fights** and **quarrels** among you?
+
+Don’t they come from your **desires** <br/>
+that battle within you?
+
+<div class="ref">
+James 4:1 (NIV)
+</div>
+
+>>>
++ fights (πόλεμοι): war, battle
++ quarrel (μάχαι): hand-to-hand combat
++ desires (ἡδονῶν): selfish pleasures, passions
+
+---
+You ask with **wrong motives**, <br/>
 that you may spend what you get on your **pleasures**.
 
 <div class="ref">
