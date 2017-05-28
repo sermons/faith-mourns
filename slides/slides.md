@@ -88,6 +88,14 @@ James 4:4 (NIV)
 </div>
 
 ---
+You ask with **wrong motives**,  <br/>
+that you may spend what you get on your **pleasures**.
+
+<div class="ref">
+James 4:3 (NIV)
+</div>
+
+---
 anyone who chooses to be a **friend** of the **world** <br/>
 becomes an **enemy** of **God**.
 
