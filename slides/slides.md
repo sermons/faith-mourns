@@ -132,6 +132,18 @@ James 4:4 (NIV)
 + becomes (καθίσταται): stands (position, stance)
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+For the **flesh** desires what is contrary to the **Spirit**, <br/>
+and the Spirit what is **contrary** to the flesh.
+
+They are in **conflict** with each other,  <br/>
+so that you are not to do whatever you **want**.
+
+<div class="ref">
+Galatians 5:17 (NIV)
+</div>
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
 Or do you think Scripture says without reason
 
@@ -146,31 +158,19 @@ James 4:5-6 (NIV)
 </div>
 
 >>>
++ Scripture says: not in OT, no specific ref
+  + themes present in Paul
 + 5 jealous (φθόνον): envy
   + bitterness toward another's good
   + to action: tear other down
   + cf zeal
 + longs (ἐπιποθεῖ): yearn, strive
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
-For the **flesh** desires what is contrary to the **Spirit**, <br/>
-and the Spirit what is **contrary** to the flesh.
-
-They are in **conflict** with each other,  <br/>
-so that you are not to do whatever you **want**.
-
-<div class="ref">
-Galatians 5:17 (NIV)
-</div>
-
->>>
-+ Scripture says: not in OT, no specific ref
-  + themes present in Paul
++ the Spirit that dwells in us yearns toward jealousy
 
 ---
 <!-- .slide: data-background="white" -->
-# How has my heart been **adulterous**? 
+# What **quarrels** have I had?
+# 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
