@@ -259,7 +259,7 @@ James 4:8 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# How have I been <br/> **proud** before God
+# Have I been <br/> **proud** before God
 # and unwilling to <br/> **submit** to Him?
 
 ---
