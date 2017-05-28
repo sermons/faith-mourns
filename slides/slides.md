@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Does God want me to be **happy**?
+# Does God want me <br/> to be **happy**?
 
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
@@ -124,8 +124,10 @@ James 4:3 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
-Then I passed by and saw you **kicking about** in your **blood**, <br/>
-and as you lay there in your blood I said to you, “**Live!**”
+Then I **passed by** and saw you <br/>
+**kicking about** in your **blood**, <br/>
+and as you **lay** there in your blood <br/>
+I said to you, “**Live!**”
 
 <div class="ref">
 Ezekiel 16:6 (NIV)
@@ -189,8 +191,8 @@ James 4:5-6 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# What **quarrels** have I had?
-# What selfish **desires** of mine caused them?
+# What **quarrels** <br/> have I had?
+# What selfish **desires** <br/> of mine caused them?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
@@ -232,7 +234,7 @@ James 4:7-8 (NIV)
   + resist (ἀντίστητε): stand against
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
 My **sacrifice**, O God, is a **broken spirit**; <br/>
 a broken and **contrite heart** <br/>
 you, God, will not despise.
@@ -257,8 +259,8 @@ James 4:8 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# How have I been **proud** before God
-# and unwilling to **submit** to Him?
+# How have I been <br/> **proud** before God
+# and unwilling to <br/> **submit** to Him?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
@@ -301,11 +303,13 @@ but worldly sorrow brings **death**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
-Look! God’s dwelling place is now **among** the people, <br/>
+Look! God’s **dwelling place** <br/>
+is now **among** the people, <br/>
 and he will **dwell** with them.
 
 They will be **his people**,  <br/>
-and God himself will be with them and be **their God**.
+and God himself will be **with them** <br/>
+and be **their God**.
 
 <div class="ref">
 Revelation 21:3 (NIV) (p.1/2)
