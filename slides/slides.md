@@ -257,7 +257,8 @@ James 4:8 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# **Q2**
+# How have I been **proud** before God
+# and unwilling to **submit** to Him?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
@@ -273,7 +274,7 @@ Change your laughter to **mourning** <br/>
 and your joy to **gloom**.
 
 <div class="ref">
-James 4:8-9 (NIV)
+James 4:9 (NIV)
 </div>
 
 >>>
@@ -285,6 +286,8 @@ James 4:8-9 (NIV)
   + also in v9b
 + wail (κλαύσατε): audible wailing of grief
 + gloom (κατήφειαν): eyes downcast
++ **public** ack that sin was wrong
+  + e.g., say "sorry" // "what for?" // "dunno"
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
@@ -318,16 +321,6 @@ for the old **order** of things has passed away.
 
 <div class="ref">
 Revelation 21:4 (NIV) (p.2/2)
-</div>
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
-<span class="ref">10</span>
-**Humble** yourselves before the Lord, <br/>
-and he will **lift** you up.
-
-<div class="ref">
-James 4:10 (NIV)
 </div>
 
 ---
