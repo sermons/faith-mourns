@@ -81,7 +81,7 @@ James 4:8-10 (NIV) (p.3/3)
 2. Good **Grief** <span class="ref">(v9-10)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 You **adulterous** people
 
 <div class="ref">
@@ -169,6 +169,10 @@ Galatians 5:17 (NIV)
   + themes present in Paul
 
 ---
+<!-- .slide: data-background="white" -->
+# How has my heart been **adulterous**? 
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
 ## Faith that Mourns Sin <span class="ref">(James 4b)</span>
 1. Adultery <span class="ref">(v4-6)</span>
@@ -220,6 +224,10 @@ James 4:7-8 (NIV)
 <div class="ref">
 James 4:8 (NIV)
 </div>
+
+---
+<!-- .slide: data-background="white" -->
+# **Q2**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
@@ -281,6 +289,20 @@ for the old **order** of things has passed away.
 <div class="ref">
 Revelation 21:4 (NIV) (p.2/2)
 </div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
+<span class="ref">10</span>
+**Humble** yourselves before the Lord, <br/>
+and he will **lift** you up.
+
+<div class="ref">
+James 4:10 (NIV)
+</div>
+
+---
+<!-- .slide: data-background="white" -->
+# **Q3**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
