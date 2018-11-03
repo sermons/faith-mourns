@@ -297,7 +297,6 @@ for the old **order** of things has passed away.
 
 ---
 <!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
-[10](# "ref")
 **Humble** yourselves before the Lord, <br/>
 and he will **lift** you up.
 
