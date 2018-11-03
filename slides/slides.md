@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
 # Faith that <br> Mourns Sin
 ## James 4:4-10
 
@@ -6,8 +6,7 @@
 <!-- .slide: data-background="white" -->
 # Does God want me <br/> to be **happy**?
 
-[###](#/outline)
-<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+[###](#/outline "secret")
 
 >>>
 + Yes, but God is not our **servant**
@@ -15,18 +14,18 @@
 + Our goal should be not **happiness** but **holiness**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## James: **Keep the Faith**
-+ Stands the **Test** <span class="ref">(1:2-12)</span>
-+ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
-+ Loves **Impartially** <span class="ref">(2:5-9)</span>
-+ **Acts** <span class="ref">(2:15-24)</span>
-+ Tames the **Tongue** <span class="ref">(3:6-10)</span>
-+ Demonstrates **Wisdom** <span class="ref">(3:13-18)</span>
-+ **Mourns** Sin <span class="ref">(4:4-10)</span>
++ Stands the **Test** [(1:2-12)](# "ref")
++ Demands a **Change** of Heart [(1:19-25)](# "ref")
++ Loves **Impartially** [(2:5-9)](# "ref")
++ **Acts** [(2:15-24)](# "ref")
++ Tames the **Tongue** [(3:6-10)](# "ref")
++ Demonstrates **Wisdom** [(3:13-18)](# "ref")
++ **Mourns** Sin [(4:4-10)](# "ref")
 
 ---
-<span class="ref">4</span>
+[4](# "ref")
 You **adulterous** people, don’t you know that <br/>
 **friendship** with the **world** <br/>
 means enmity against God?
@@ -34,78 +33,68 @@ means enmity against God?
 Therefore, anyone who chooses to be a <br/>
 friend of the world becomes an **enemy of God**.
 
-<span class="ref">5</span>
+[5](# "ref")
 Or do you think Scripture says without reason <br/>
 that he **jealously longs** for the **spirit** <br/>
 he has caused to dwell in us?
 
-<div class="ref">
-James 4:4-5 (NIV) (p.1/3)
-</div>
+[James 4:4-5 (NIV) (p.1/3)](# "ref")
 
 ---
-<span class="ref">6</span>
+[6](# "ref")
 But he gives us more **grace**. <br/>
 That is why Scripture says:<br>
 “God **opposes** the **proud** <br/>
 but shows **favor** to the **humble**.”
 
-<span class="ref">7</span>
+[7](# "ref")
 **Submit** yourselves, then, to God. <br/>
 **Resist** the devil, and he will **flee** from you. <br/>
-<span class="ref">8</span>
+[8](# "ref")
 Come **near** to God <br> and he will come near to you.
 
-<div class="ref">
-James 4:6-8 (NIV) (p.2/3)
-</div>
+[James 4:6-8 (NIV) (p.2/3)](# "ref")
 
 ---
 **Wash** your hands, you **sinners**, and <br/>
 **purify** your hearts, you **double-minded**.
 
-<span class="ref">9</span>
+[9](# "ref")
 **Grieve**, mourn and wail. <br/>
 Change your laughter to **mourning** <br/>
 and your joy to **gloom**.
 
-<span class="ref">10</span>
+[10](# "ref")
 **Humble** yourselves before the Lord, <br/>
 and he will **lift** you up.
 
-<div class="ref">
-James 4:8-10 (NIV) (p.3/3)
-</div>
+[James 4:8-10 (NIV) (p.3/3)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" id="outline" class="outline" -->
-## Faith that Mourns Sin <br> <span class="ref">(James 4b)</span>
-1. **Adultery** <span class="ref">(v4-6)</span>
-2. A New **Direction** <span class="ref">(v7-8)</span>
-2. Good **Grief** <span class="ref">(v9-10)</span>
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> id="outline" class="outline" -->
+## Faith that Mourns Sin <br> [(James 4b)](# "ref")
+1. **Adultery** [(v4-6)](# "ref")
+2. A New **Direction** [(v7-8)](# "ref")
+2. Good **Grief** [(v9-10)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 You **adulterous** people
 
-<div class="ref">
-James 4:4 (NIV)
-</div>
+[James 4:4 (NIV)](# "ref")
 
 >>>
 + **why** adultery?
 + look at context:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/fist.jpg" -->
+<!-- .slide: <%= bg("fist.jpg") %> -->
 What causes **fights** and **quarrels** among you?
 
 Don’t they come from your **desires** <br/>
 that battle within you?
 
-<div class="ref">
-James 4:1 (NIV)
-</div>
+[James 4:1 (NIV)](# "ref")
 
 >>>
 + fights (πόλεμοι): war, battle
@@ -113,38 +102,32 @@ James 4:1 (NIV)
 + desires (ἡδονῶν): selfish pleasures, passions
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/negativespace-money.jpg" -->
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 You ask with **wrong motives**, <br/>
 that you may spend what you get on your **pleasures**.
 
-<div class="ref">
-James 4:3 (NIV)
-</div>
+[James 4:3 (NIV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 Then I **passed by** and saw you <br/>
 **kicking about** in your **blood**, <br/>
 and as you **lay** there in your blood <br/>
 I said to you, “**Live!**”
 
-<div class="ref">
-Ezekiel 16:6 (NIV)
-</div>
+[Ezekiel 16:6 (NIV)](# "ref")
 
 >>>
 + all of chapter 16
 + also see Hosea 2
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
+<!-- .slide: <%= bg("unsplash-u0vgcIOQG08-forest_road_fork.jpg") %> -->
 anyone who chooses to be <br>
 a **friend** of the **world** <br/>
 becomes an **enemy** of **God**.
 
-<div class="ref">
-James 4:4 (NIV)
-</div>
+[James 4:4 (NIV)](# "ref")
 
 >>>
 + 4 friendship (φιλία): kiss, affection, kinship
@@ -152,7 +135,7 @@ James 4:4 (NIV)
 + becomes (καθίσταται): stands (position, stance)
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 For the **flesh** desires <br>
 what is contrary to the **Spirit**, <br/>
 and the Spirit what is **contrary** to the flesh.
@@ -160,23 +143,19 @@ and the Spirit what is **contrary** to the flesh.
 They are in **conflict** with each other,  <br/>
 so that you are not to do whatever you **want**.
 
-<div class="ref">
-Galatians 5:17 (NIV)
-</div>
+[Galatians 5:17 (NIV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-ACAK6F9mzgs-log_fire.jpg" -->
+<!-- .slide: <%= bg("unsplash-ACAK6F9mzgs-log_fire.jpg") %> -->
 Or do you think Scripture says without reason
 
 that he **jealously longs** for the **spirit** <br/>
 he has caused to dwell in us?
 
-<span class="ref">6</span>
+[6](# "ref")
 But he gives us more **grace**. <br/>
 
-<div class="ref">
-James 4:5-6 (NIV)
-</div>
+[James 4:5-6 (NIV)](# "ref")
 
 >>>
 + Scripture says: not in OT, no specific ref
@@ -196,22 +175,20 @@ James 4:5-6 (NIV)
 ## What selfish **desires** <br/> of mine caused them?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" class="outline" -->
-## Faith that Mourns Sin <br> <span class="ref">(James 4b)</span>
-1. Adultery <span class="ref">(v4-6)</span>
-2. **A New Direction** <span class="ref">(v7-8)</span>
-2. Good Grief <span class="ref">(v9-10)</span>
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> class="outline" -->
+## Faith that Mourns Sin <br> [(James 4b)](# "ref")
+1. Adultery [(v4-6)](# "ref")
+2. **A New Direction** [(v7-8)](# "ref")
+2. Good Grief [(v9-10)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pHR_S0PeOF0-hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-pHR_S0PeOF0-hands.jpg") %> -->
 That is why Scripture says:
 
 “God **opposes** the **proud** <br/>
 but shows **favor** to the **humble**.”
 
-<div class="ref">
-James 4:6 (NIV)
-</div>
+[James 4:6 (NIV)](# "ref")
 
 >>>
 + 6 proud (ὑπερηφάνοις): puffed up beyond
@@ -219,33 +196,29 @@ James 4:6 (NIV)
   + humble (ταπεινοῖς): low, reliant on God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 **Submit** yourselves, then, to God.
 
 **Resist** the devil, and he will **flee** from you. <br/>
-<span class="ref">8</span>
+[8](# "ref")
 Come **near** to God <br> and he will come near to you.
 
-<div class="ref">
-James 4:7-8 (NIV)
-</div>
+[James 4:7-8 (NIV)](# "ref")
 
 >>>
 + 7 submit (ὑποτάγητε): position below
   + resist (ἀντίστητε): stand against
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bigbirdz-prayer.jpg" -->
+<!-- .slide: <%= bg("bigbirdz-prayer.jpg") %> -->
 My **sacrifice**, O God, is a **broken spirit**; <br/>
 a broken and **contrite heart** <br/>
 you, God, will not despise.
 
-<div class="ref">
-Psalm 51:17 (NIV)
-</div>
+[Psalm 51:17 (NIV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-oXo6IvDnkqc-dirty_hands.jpg" -->
+<!-- .slide: <%= bg("unsplash-oXo6IvDnkqc-dirty_hands.jpg") %> -->
 **Wash** your hands, you **sinners**, and <br/>
 **purify** your hearts, you **double-minded**.
 
@@ -254,9 +227,7 @@ Psalm 51:17 (NIV)
   + purify (ἁγνίσατε): make holy
   + double-mind (δίψυχοι): two souls, schiz
 
-<div class="ref">
-James 4:8 (NIV)
-</div>
+[James 4:8 (NIV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
@@ -264,21 +235,19 @@ James 4:8 (NIV)
 # and unwilling to <br/> **submit** to Him?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" class="outline" -->
-## Faith that Mourns Sin <br> <span class="ref">(James 4b)</span>
-1. Adultery <span class="ref">(v4-6)</span>
-2. A New Direction <span class="ref">(v7-8)</span>
-2. **Good Grief** <span class="ref">(v9-10)</span>
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> class="outline" -->
+## Faith that Mourns Sin <br> [(James 4b)](# "ref")
+1. Adultery [(v4-6)](# "ref")
+2. A New Direction [(v7-8)](# "ref")
+2. **Good Grief** [(v9-10)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg" -->
+<!-- .slide: <%= bg("unsplash-Zi8-E3qJ_RM-crying_old_woman.jpg") %> -->
 **Grieve**, mourn and wail. <br/>
 Change your laughter to **mourning** <br/>
 and your joy to **gloom**.
 
-<div class="ref">
-James 4:9 (NIV)
-</div>
+[James 4:9 (NIV)](# "ref")
 
 >>>
 + 9 grieve (ταλαιπωρήσατε): intense affliction
@@ -293,17 +262,15 @@ James 4:9 (NIV)
   + e.g., say "sorry" // "what for?" // "dunno"
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Godly sorrow brings **repentance** <br/>
 that leads to **salvation** and leaves **no regret**, <br/>
 but worldly sorrow brings **death**.
 
-<div class="ref">
-2 Corinthians 7:10 (NIV)
-</div>
+[2 Corinthians 7:10 (NIV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 Look! God’s **dwelling place** <br/>
 is now **among** the people, <br/>
 and he will **dwell** with them.
@@ -312,35 +279,29 @@ They will be **his people**,  <br/>
 and God himself will be **with them** <br/>
 and be **their God**.
 
-<div class="ref">
-Revelation 21:3 (NIV) (p.1/2)
-</div>
+[Revelation 21:3 (NIV) (p.1/2)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-cynn7cTgOCU-bright_clouds.jpg" -->
+<!-- .slide: <%= bg("unsplash-cynn7cTgOCU-bright_clouds.jpg") %> -->
 He will wipe every **tear** from their eyes. <br/>
 There will be no more **death**  <br/>
 or **mourning** or crying or pain,
 
 for the old **order** of things has passed away.
 
-<div class="ref">
-Revelation 21:4 (NIV) (p.2/2)
-</div>
+[Revelation 21:4 (NIV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
 # Has my **sorrow** over sin <br/> led to **repentance**, <br/> or to **regret**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
-<span class="ref">10</span>
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> -->
+[10](# "ref")
 **Humble** yourselves before the Lord, <br/>
 and he will **lift** you up.
 
-<div class="ref">
-James 4:10 (NIV)
-</div>
+[James 4:10 (NIV)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> class="empty" -->
