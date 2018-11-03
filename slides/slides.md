@@ -1,5 +1,5 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
-# Faith that Mourns Sin
+# Faith that <br> Mourns Sin
 ## James 4:4-10
 
 ---
@@ -31,8 +31,8 @@ You **adulterous** people, don’t you know that <br/>
 **friendship** with the **world** <br/>
 means enmity against God?
 
-Therefore, anyone who chooses to be <br/>
-a friend of the world becomes an **enemy of God**.
+Therefore, anyone who chooses to be a <br/>
+friend of the world becomes an **enemy of God**.
 
 <span class="ref">5</span>
 Or do you think Scripture says without reason <br/>
@@ -46,8 +46,7 @@ James 4:4-5 (NIV) (p.1/3)
 ---
 <span class="ref">6</span>
 But he gives us more **grace**. <br/>
-That is why Scripture says:
-
+That is why Scripture says:<br>
 “God **opposes** the **proud** <br/>
 but shows **favor** to the **humble**.”
 
@@ -55,7 +54,7 @@ but shows **favor** to the **humble**.”
 **Submit** yourselves, then, to God. <br/>
 **Resist** the devil, and he will **flee** from you. <br/>
 <span class="ref">8</span>
-Come **near** to God and he will come near to you.
+Come **near** to God <br> and he will come near to you.
 
 <div class="ref">
 James 4:6-8 (NIV) (p.2/3)
@@ -79,8 +78,8 @@ James 4:8-10 (NIV) (p.3/3)
 </div>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" id="outline" -->
-## Faith that Mourns Sin <span class="ref">(James 4b)</span>
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" id="outline" class="outline" -->
+## Faith that Mourns Sin <br> <span class="ref">(James 4b)</span>
 1. **Adultery** <span class="ref">(v4-6)</span>
 2. A New **Direction** <span class="ref">(v7-8)</span>
 2. Good **Grief** <span class="ref">(v9-10)</span>
@@ -139,7 +138,8 @@ Ezekiel 16:6 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
-anyone who chooses to be a **friend** of the **world** <br/>
+anyone who chooses to be <br>
+a **friend** of the **world** <br/>
 becomes an **enemy** of **God**.
 
 <div class="ref">
@@ -153,7 +153,8 @@ James 4:4 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
-For the **flesh** desires what is contrary to the **Spirit**, <br/>
+For the **flesh** desires <br>
+what is contrary to the **Spirit**, <br/>
 and the Spirit what is **contrary** to the flesh.
 
 They are in **conflict** with each other,  <br/>
@@ -191,12 +192,12 @@ James 4:5-6 (NIV)
 
 ---
 <!-- .slide: data-background="white" -->
-# What **quarrels** <br/> have I had?
-# What selfish **desires** <br/> of mine caused them?
+## What **quarrels** <br/> have I had?
+## What selfish **desires** <br/> of mine caused them?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
-## Faith that Mourns Sin <span class="ref">(James 4b)</span>
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" class="outline" -->
+## Faith that Mourns Sin <br> <span class="ref">(James 4b)</span>
 1. Adultery <span class="ref">(v4-6)</span>
 2. **A New Direction** <span class="ref">(v7-8)</span>
 2. Good Grief <span class="ref">(v9-10)</span>
@@ -223,7 +224,7 @@ James 4:6 (NIV)
 
 **Resist** the devil, and he will **flee** from you. <br/>
 <span class="ref">8</span>
-Come **near** to God and he will come near to you.
+Come **near** to God <br> and he will come near to you.
 
 <div class="ref">
 James 4:7-8 (NIV)
@@ -263,8 +264,8 @@ James 4:8 (NIV)
 # and unwilling to <br/> **submit** to Him?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" -->
-## Faith that Mourns Sin <span class="ref">(James 4b)</span>
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-7cdFZmLlWOM-lighthouse.jpg" class="outline" -->
+## Faith that Mourns Sin <br> <span class="ref">(James 4b)</span>
 1. Adultery <span class="ref">(v4-6)</span>
 2. A New Direction <span class="ref">(v7-8)</span>
 2. **Good Grief** <span class="ref">(v9-10)</span>
