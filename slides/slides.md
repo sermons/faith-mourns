@@ -4,14 +4,12 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Does God want me <br/> to be **happy**?
+# How do I react to **conflict**?
 
 [###](#/outline "secret")
 
 >>>
-+ Yes, but God is not our **servant**
-  + genie in magic lamp
-+ Our goal should be not **happiness** but **holiness**
+<!-- + Our goal should be not **happiness** but **holiness** -->
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
