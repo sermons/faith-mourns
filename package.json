@@ -20,7 +20,13 @@
       "name": "Sean Ho",
       "email": "travis@seanho.com"
     },
-    "history": [
+    "history": [[
+      {
+        "venue": "Pacific Grace Mandarin Church",
+        "city": "Burnaby",
+        "date": "2019-06-02,
+        "duration": 0
+      },
       {
         "venue": "Fujian Evangelical Church",
         "city": "Richmond",
