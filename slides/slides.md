@@ -6,8 +6,6 @@
 <!-- .slide: data-background="white" -->
 # How do I react to **conflict**?
 
-[###](#/outline "secret")
-
 >>>
 <!-- + Our goal should be not **happiness** but **holiness** -->
 
@@ -22,7 +20,7 @@
 + Demonstrates **Wisdom** [(3:13-18)](# "ref")
 + **Mourns** Sin [(4:4-10)](# "ref")
 
----
+______
 [4](# "ref")
 You **adulterous** people, don’t you know that <br/>
 **friendship** with the **world** <br/>
@@ -38,7 +36,7 @@ he has caused to dwell in us?
 
 [James 4:4-5 (NIV) (p.1/3)](# "ref")
 
----
+______
 [6](# "ref")
 But he gives us more **grace**. <br/>
 That is why Scripture says:<br>
@@ -53,7 +51,7 @@ Come **near** to God <br> and he will come near to you.
 
 [James 4:6-8 (NIV) (p.2/3)](# "ref")
 
----
+______
 **Wash** your hands, you **sinners**, and <br/>
 **purify** your hearts, you **double-minded**.
 
@@ -71,7 +69,7 @@ and he will **lift** you up.
 ---
 <!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> id="outline" class="outline" -->
 ## Faith that Mourns Sin <br> [(James 4b)](# "ref")
-1. **Adultery** [(v4-6)](# "ref")
+1. **Adulterers** [(v4-6)](# "ref")
 2. A New **Direction** [(v7-8)](# "ref")
 2. Good **Grief** [(v9-10)](# "ref")
 
@@ -175,7 +173,7 @@ But he gives us more **grace**. <br/>
 ---
 <!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> class="outline" -->
 ## Faith that Mourns Sin <br> [(James 4b)](# "ref")
-1. Adultery [(v4-6)](# "ref")
+1. Adulterers [(v4-6)](# "ref")
 2. **A New Direction** [(v7-8)](# "ref")
 2. Good Grief [(v9-10)](# "ref")
 
@@ -229,13 +227,12 @@ you, God, will not despise.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I been <br/> **proud** before God
-# and unwilling to <br/> **submit** to Him?
+# Have I been <br/> **proud** before God <br> and unwilling to <br/> **submit** to Him?
 
 ---
 <!-- .slide: <%= bg("unsplash-7cdFZmLlWOM-lighthouse.jpg") %> class="outline" -->
 ## Faith that Mourns Sin <br> [(James 4b)](# "ref")
-1. Adultery [(v4-6)](# "ref")
+1. Adulterers [(v4-6)](# "ref")
 2. A New Direction [(v7-8)](# "ref")
 2. **Good Grief** [(v9-10)](# "ref")
 
