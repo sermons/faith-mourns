@@ -20,7 +20,7 @@
 + Demonstrates **Wisdom** [(3:13-18)](# "ref")
 + **Mourns** Sin [(4:4-10)](# "ref")
 
-______
+******
 [4](# "ref")
 You **adulterous** people, don’t you know that <br/>
 **friendship** with the **world** <br/>
@@ -36,7 +36,7 @@ he has caused to dwell in us?
 
 [James 4:4-5 (NIV) (p.1/3)](# "ref")
 
-______
+******
 [6](# "ref")
 But he gives us more **grace**. <br/>
 That is why Scripture says:<br>
@@ -51,7 +51,7 @@ Come **near** to God <br> and he will come near to you.
 
 [James 4:6-8 (NIV) (p.2/3)](# "ref")
 
-______
+******
 **Wash** your hands, you **sinners**, and <br/>
 **purify** your hearts, you **double-minded**.
 
